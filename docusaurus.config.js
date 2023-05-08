@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'flairnlp', // Usually your GitHub org/user name.
+  organizationName: 'helpmefindaname', // Usually your GitHub org/user name.
   projectName: 'flairnlp.github.io', // Usually your repo name.
   trailingSlash: false,
 
