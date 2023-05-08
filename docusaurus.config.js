@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/flavicon.png',
 
   // Set the production url of your site here
-  url: 'https://flairnlp.github.io',
+  url: 'https://helpmefindaname.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
